@@ -1,0 +1,16 @@
+follow the Setup for install XAMPP for PHP programming........
++-----------------------------------------------------------------------+
+
+1. find the XAMPP for the internet (ww.apachefriends.org)
+2. completly install the XAMPP on your PC. (set the default path for install) 
+3. go to your xampp folder on C:/xampp
+4. C:/xampp/htdocs/ create folder in htdocs
+ +-----------------------------------------------------------------------+
+
+6. past all files in to  C:/xampp/htdocs/php
+7. open C:/xampp/xampp-contral.exe
+8. start apache and the MySql 
+9. open any web browser on you pc
+10. type localhost/php
+
+11.open any files on php folder
